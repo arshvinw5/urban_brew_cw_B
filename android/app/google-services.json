@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "221718924958",
+    "project_id": "urban-brew-app",
+    "storage_bucket": "urban-brew-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221718924958:android:b1f0b9f7865178389ab58f",
+        "android_client_info": {
+          "package_name": "com.example.urban_brew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHi9ZQIXvSEaeygDoyYCJ44zy0TlGMjhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
