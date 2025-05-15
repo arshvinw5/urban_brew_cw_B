@@ -4,11 +4,7 @@ Urban Brew - MAD CW B
 
 The Coffee App is a mobile application that makes it easier for people to buy and consume their coffee. This is a Food and Drinks category application that will surely give users an easy way of searching, buying, and managing their coffee. It combines online-offline capabilities for a robust user experience in the app.
 
-EM6330 Mobile Application Development coursework 02 (Group Project)
-
-Team Members
-
-K2428740 E222827 Visula Rajakaruna K2437614 E225200 D W T Arshvin K2432893 E141534 R A Chamodh Ranasinghe K2416396 COL00219778 Sashmitha Nethranjana Rathnayake
+EM6330 Mobile Application Development coursework 02 
 
 Purpose of This Repository
 
@@ -21,6 +17,14 @@ A new Flutter project.
 ![Screenshot_1736401716](https://github.com/user-attachments/assets/6c9fbbf3-c6d0-4344-9d60-b96baa34bcc2)
 
 ![Screenshot_1736400683](https://github.com/user-attachments/assets/63a77fa8-3713-4c02-b7c2-c9ac979f045f)
+
+![Screenshot_1736401579](https://github.com/user-attachments/assets/e48a73c3-3393-4477-948d-4a5de3ddc90e)
+
+![Screenshot_1736401660](https://github.com/user-attachments/assets/3f3fbf52-019c-4ade-8acb-af4bf23261ae)
+
+![Screenshot_1736401632](https://github.com/user-attachments/assets/cab85418-91c5-4aae-9cab-55ed2f157252)
+
+![Screenshot_1736399882](https://github.com/user-attachments/assets/73c410b9-39df-4aa1-a146-96e0d0a04839)
 
 ## Getting Started
 
